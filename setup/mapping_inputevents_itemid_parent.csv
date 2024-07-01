@@ -1,0 +1,373 @@
+itemid,"label","aeolus","parent"
+802,Dilantin,dilantin,
+828,Platelets,platelets,
+1813,Morphine Sulfate,morphine sulfate,
+2971,LR,lactated ringers,
+3347,Calcium Gluconate,calcium gluconate,
+3578,Potassium Chloride,potassium chloride,
+4252,Acyclovir,acyclovir,
+4720,K Phos,k phos,
+4732,Keflex,keflex,
+5157,Ambisome,ambisome,
+5565,Isuprel,isuprel,
+6133,Magnesium Sulfate,magnesium sulfate,
+30003,Aminophylline,aminophylline,
+30005,Fresh Frozen Plasma,fresh frozen plasma,
+30006,Platelets,platelets,
+30007,Cryoprecipitate,cryoprecipitate,
+30008,Albumin 5%,albumin,
+30009,Albumin 25%,albumin,
+30011,Dextran 40,dextran,
+30016,Dextrose 10%,dextrose,
+30017,Dextrose 20%,dextrose,
+30023,Calcium Gluconate,calcium gluconate,
+30027,Magnesium Sulfate,magnesium sulfate,
+30046,Isuprel,isuprel,
+30053,Cell Saver,autologous blood product,
+30054,Pre-Admission Intake,pre admission intake,
+30055,Cath Lab Intake,cath lab intake,
+30059,GT Flush,gastrostomy tube flush,
+30060,D5NS,d5ns,
+30065,Sterile Water,sterile water,
+30093,Factor VIII,factor viii,
+30109,PACU PO Intake,pacu po intake,
+30126,Morphine Sulfate,morphine sulfate,
+30144,Gastric Meds,proton pump inhibitor,
+30208,Lipids 20%,lipids,
+30297,Potassium Chloride,potassium chloride,
+41067,K Phos,k phos,
+41609,Rifampin,rifampin,
+42490,Na Phos,sodium phosphate,
+44367,LR,lactated ringers,
+44492,Free Water,sterile water,
+45661,Cyclosporine,cyclosporine,
+46284,Citrate,citrate,
+220862,Albumin 25%,albumin,
+220864,Albumin 5%,albumin,
+220949,Dextrose 5%,dextrose,
+220950,Dextrose 10%,dextrose,
+220952,Dextrose 50%,dextrose,
+220970,Fresh Frozen Plasma,fresh frozen plasma,
+221036,Nutren Renal (Full),nutren renal,
+221207,Impact (Full),impact,
+221319,Alteplase (TPA),alteplase,
+221342,Aminophylline,aminophylline,
+221456,Calcium Gluconate,calcium gluconate,
+221689,Drotrecogin (Xigris),drotrecogin,
+221733,Factor VIII,factor viii,
+222011,Magnesium Sulfate,magnesium sulfate,
+222056,Nitroglycerin,nitroglycerin,
+223257,Insulin - 70/30,insulin,
+223258,Insulin - Regular,insulin regular,
+223259,Insulin - NPH,insulin nph u,
+223261,Insulin - Humalog 75/25,insulin humulin,
+223262,Insulin - Humalog,insulin humulin,
+225154,Morphine Sulfate,morphine sulfate,
+225158,NaCl 0.9%,nacl,
+225159,NaCl 0.45%,nacl,
+225161,NaCl 3% (Hypertonic Saline),nacl,
+225166,Potassium Chloride,potassium chloride,
+225167,Hydrochloric Acid - HCL,hydrochloric acid,
+225168,Packed Red Blood Cells,packed red blood cells,
+225170,Platelets,platelets,
+225171,Cryoprecipitate,cryoprecipitate,
+225173,Cell Saver,autologous blood product,
+225174,Hetastarch (Hespan) 6%,hetastarch,
+225795,Dextran 40,dextran,
+225797,Free Water,sterile water,
+225799,Gastric Meds,proton pump inhibitor,
+225801,Lipids 20%,lipids,
+225823,D5 1/2NS,d5ns,
+225825,D5NS,d5ns,
+225827,D5LR,d5lr,
+225828,LR,lactated ringers,
+225830,Multivitamins,multivitamins,
+225834,K Phos,k phos,
+225835,Na Phos,sodium phosphate,
+225837,Acyclovir,acyclovir,
+225838,Ambisome,ambisome,
+225843,Ampicillin/Sulbactam (Unasyn),ampicillin sulbactam,
+225876,Imipenem/Cilastatin,imipenem cilastatin,
+225890,Penicillin G potassium,penicillin,
+225893,Piperacillin/Tazobactam (Zosyn),piperacillin tazobactam,
+225898,Rifampin,rifampin,
+225899,Bactrim (SMX/TMP),bactrim,
+225906,Enoxaparin (Lovenox),enoxaparin,
+225912,Carafate (Sucralfate),carafate,
+225913,Coumadin (Warfarin),coumadin,
+225914,Factor VIIa,factor viia,
+225915,Profilnine,profilnine,
+225916,TPN w/ Lipids,tpn w lipids,
+225917,TPN without Lipids,solutions for parenteral nutrition,
+225920,Peripheral Parenteral Nutrition,solutions for parenteral nutrition,
+225928,Impact with Fiber (Full),impact fiber,
+225929,ProBalance (Full),probalance,
+225930,Peptamen 1.5 (Full),peptamen,
+225931,Nutren 2.0 (Full),nutren,
+225934,Vivonex (Full),vivonex,
+225935,Replete (Full),replete,
+225936,Replete with Fiber (Full),replete fiber,
+225937,Ensure (Full),ensure,
+225941,D5 1/4NS,d5ns,
+225943,Solution,solution,
+225944,Sterile Water,sterile water,
+225947,Dextrose PN,dextrose gm,
+225948,Amino Acids,amino acids,
+225969,Lipids (additive),lipids,
+225970,Beneprotein,hemeproteins,
+225973,Meperidine (Demerol),meperidine,
+225991,Resource Fruit Beverage,resource fruit beverage,
+225993,Optisource,optisource,
+225994,Mighty Shake (Vanilla/Strawberry),mighty shake,
+225995,Mighty Shake (Chocolate),mighty shake,
+225996,Mighty Shake (no sugar added),mighty shake,
+226016,Nutren 2.0 (1/4),nutren,
+226017,Nutren 2.0 (2/3),nutren,
+226018,Nutren 2.0 (3/4),nutren,
+226019,Nutren 2.0 (1/2),nutren,
+226020,Impact (1/4),impact,
+226021,Impact (2/3),impact,
+226022,Impact (3/4),impact,
+226023,Impact (1/2),impact,
+226024,Impact with Fiber (1/4),impact fiber,
+226026,Impact with Fiber (3/4),impact fiber,
+226027,Impact with Fiber (1/2),impact fiber,
+226028,Nutren Renal (1/4),nutren renal,
+226030,Nutren Renal (3/4),nutren renal,
+226031,Nutren Renal (1/2),nutren renal,
+226036,Peptamen 1.5 (1/4),peptamen,
+226038,Peptamen 1.5 (3/4),peptamen,
+226039,Peptamen 1.5 (1/2),peptamen,
+226044,Replete (1/4),replete,
+226045,Replete (2/3),replete,
+226046,Replete (3/4),replete,
+226047,Replete (1/2),replete,
+226048,Replete with Fiber (1/4),replete fiber,
+226049,Replete with Fiber (2/3),replete fiber,
+226050,Replete with Fiber (3/4),replete fiber,
+226051,Replete with Fiber (1/2),replete fiber,
+226058,Vivonex (3/4),vivonex,
+226059,Vivonex (1/2),vivonex,
+226089,Piggyback,piggyback,
+226361,Pre-Admission Intake,pre admission intake,
+226363,Cath Lab Intake,cath lab intake,
+226364,OR Crystalloid Intake,or crystalloid intake,
+226365,OR Colloid Intake,or colloid intake,
+226367,OR FFP Intake,or ffp intake,
+226368,OR Packed RBC Intake,or packed rbc intake,
+226369,OR Platelet Intake,or platelet intake,
+226370,OR Autologous Blood Intake,or autologous blood intake,
+226371,OR Cryoprecipitate Intake,or cryoprecipitate intake,
+226372,OR Cell Saver Intake,or cell saver intake,
+226375,PACU Crystalloid Intake,pacu crystalloid intake,
+226376,PACU Colloid Intake,pacu colloid intake,
+226377,PACU PO Intake,pacu po intake,
+226452,PO Intake,po intake,
+226453,GT Flush,gastrostomy tube flush,
+226875,Ensure (3/4),ensure,
+226877,Ensure Plus (Full),ensure plus,
+226880,Nutren Pulmonary (Full),nutren pulmonary,
+226881,Nutren Pulmonary (3/4),nutren pulmonary,
+226882,Nutren Pulmonary (1/2),nutren pulmonary,
+227070,PACU Packed RBC Intake,pacu packed rbc intake,
+227071,PACU Platelet Intake,pacu platelet intake,
+227072,PACU FFP Intake,pacu ffp intake,
+227091,Ensure (1/4),ensure,
+227370,Peptamen VHP (Full),peptamen hn,
+227518,Nutren 2.0 (3/4),nutren,
+227520,Methadone Hydrochloride,methadone hydrochloride,
+227522,KCL (Bolus),kcl,
+227523,Magnesium Sulfate (Bolus),magnesium sulfate,
+227524,Magnesium Sulfate (OB-GYN),magnesium sulfate,
+227525,Calcium Gluconate (CRRT),calcium gluconate,
+227526,Citrate,citrate,
+227528,ACD-A Citrate (500ml),acd a citrate,
+227529,ACD-A Citrate (1000ml),acd a citrate,
+227530,IV Immune Globulin (IVIG),rho immune globulin,
+227532,Plasma Pheresis,plasma pheresis,
+227534,Cyclosporine,cyclosporine,
+227535,Vitamin K (Phytonadione),vitamin k,
+227536,KCl (CRRT),kcl,
+227689,Dilantin,dilantin,
+227691,Keflex,keflex,
+227692,Isuprel,isuprel,
+227695,Fibersource HN (Full),fibersource hn,
+227696,Fibersource HN (3/4),fibersource hn,
+227698,Fibersource HN (1/2),fibersource hn,
+227699,Fibersource HN (1/4),fibersource hn,
+227973,NovaSource Renal (1/2),novasource renal,
+227974,NovaSource Renal (3/4),novasource renal,
+227975,NovaSource Renal (Full),novasource renal,
+227976,Boost Glucose Control (1/4),boost glucose control,
+227977,Boost Glucose Control (1/2),boost glucose control,
+227978,Boost Glucose Control (3/4),boost glucose control,
+227979,Boost Glucose Control (Full),boost glucose control,
+228003,Tamiflu,tamiflu,
+228131,Isosource 1.5 (1/2),isosource,
+228132,Isosource 1.5 (1/4),isosource,
+228133,Isosource 1.5 (2/3),isosource,
+228134,Isosource 1.5 (3/4),isosource,
+228135,Isosource 1.5 (Full),isosource,
+228140,Dextrose 20%,dextrose,
+228141,Dextrose 30%,dextrose,
+228142,Dextrose 40%,dextrose,
+228315,Acetaminophen-IV,acetaminophen,
+228316,Keppra,keppra,
+228341,NaCl 23.4%,nacl,
+228348,Nepro (1/2),nepro,
+228351,Nepro (Full),nepro,
+228356,Glucerna (1/2),glucerna,
+228359,Glucerna (Full),glucerna,
+228361,Pulmocare (1/4),pulmocare,
+228363,Pulmocare (Full),pulmocare,
+228364,Two Cal HN (1/2),twocal hn,
+228367,Two Cal HN (Full),twocal hn,
+228383,Peptamen Bariatric (Full),peptamen bariatric,
+225886,Moxifloxacin,moxifloxacin,quinolones|antineoplastic agents|enzyme inhibitors|topoisomerase ii inhibitors|topoisomerase inhibitors|quinolone antimicrobial|anti-bacterial agents|anti-infective agents|antibacterial drug
+225840,Amikacin,amikacin,aminoglycoside antibacterial|anti-bacterial agents|aminoglycosides|antibacterial drug|anti-infective agents
+221828,Hydralazine,hydralazine,vasodilator agents|antihypertensive agent|antihypertensive agents|arteriolar vasodilation|cardiovascular agents|arteriolar vasodilator|vasodilator agent
+4579,Hydralazine,hydralazine,vasodilator agents|antihypertensive agent|antihypertensive agents|arteriolar vasodilation|cardiovascular agents|arteriolar vasodilator|vasodilator agent
+225908,Fondaparinux,fondaparinux,hematologic agents|antithrombins|factor xa inhibitor|protease inhibitors|anticoagulants|serine proteinase inhibitors|factor xa inhibitors|enzyme inhibitors
+225832,Folic Acid,folic acid,hematinics|growth substances|hematologic agents|vitamin b complex|vitamins|micronutrients|b vitamin
+5067,Folic Acid,folic acid,hematinics|growth substances|hematologic agents|vitamin b complex|vitamins|micronutrients|b vitamin
+225156,Pentobarbital,pentobarbital,"central nervous system agents|gabaa receptor agonist|adjuvants, anesthesia|gaba modulators|neurotransmitter agents|gaba agents|central nervous system depressants|hypnotics and sedatives"
+225883,Meropenem,meropenem,drug allergen|anti-bacterial agents|antibacterial drug|anti-infective agents
+4587,Meropenem,meropenem,drug allergen|anti-bacterial agents|antibacterial drug|anti-infective agents
+221429,Esmolol,esmolol,adrenergic beta-1 receptor antagonists|beta-adrenergic antagonist|beta-adrenergic blocker|anti-arrhythmia drug|adrenergic beta-antagonists|neurotransmitter agents|adrenergic antagonists|adrenergic agents
+30117,Esmolol,esmolol,adrenergic beta-1 receptor antagonists|beta-adrenergic antagonist|beta-adrenergic blocker|anti-arrhythmia drug|adrenergic beta-antagonists|neurotransmitter agents|adrenergic antagonists|adrenergic agents
+225866,Erythromycin,erythromycin,gastrointestinal agents|macrolides|macrolide antimicrobial|protein synthesis inhibitors|anti-infective agents|anti-bacterial agents|macrolide|decreased sebaceous gland activity|enzyme inhibitors
+6536,Erythromycin,erythromycin,gastrointestinal agents|macrolides|macrolide antimicrobial|protein synthesis inhibitors|anti-infective agents|anti-bacterial agents|macrolide|decreased sebaceous gland activity|enzyme inhibitors
+228339,Amiodarone 600/500,amiodarone,cardiovascular agents|vasodilator agents|antiarrhythmic|enzyme inhibitors|cytochrome p-450 enzyme inhibitors|cytochrome p-450 cyp3a inhibitors|membrane transport modulators|cytochrome p-450 cyp1a2 inhibitors|p-glycoprotein inhibitors|cardiovascular drug|cytochrome p-450 cyp2c9 inhibitors|cytochrome p450 1a2 inhibitors|sodium channel blockers|cytochrome p-450 cyp2d6 inhibitors|cytochrome p450 3a4 inhibitors|anti-arrhythmia agents|potassium channel blockers|cytochrome p450 2d6 inhibitors|metabolic side effects of drugs and substances|cytochrome p450 2c9 inhibitors
+221347,Amiodarone,amiodarone,cardiovascular agents|vasodilator agents|antiarrhythmic|enzyme inhibitors|cytochrome p-450 enzyme inhibitors|cytochrome p-450 cyp3a inhibitors|membrane transport modulators|cytochrome p-450 cyp1a2 inhibitors|p-glycoprotein inhibitors|cardiovascular drug|cytochrome p-450 cyp2c9 inhibitors|cytochrome p450 1a2 inhibitors|sodium channel blockers|cytochrome p-450 cyp2d6 inhibitors|cytochrome p450 3a4 inhibitors|anti-arrhythmia agents|potassium channel blockers|cytochrome p450 2d6 inhibitors|metabolic side effects of drugs and substances|cytochrome p450 2c9 inhibitors
+30112,Amiodarone,amiodarone,cardiovascular agents|vasodilator agents|antiarrhythmic|enzyme inhibitors|cytochrome p-450 enzyme inhibitors|cytochrome p-450 cyp3a inhibitors|membrane transport modulators|cytochrome p-450 cyp1a2 inhibitors|p-glycoprotein inhibitors|cardiovascular drug|cytochrome p-450 cyp2c9 inhibitors|cytochrome p450 1a2 inhibitors|sodium channel blockers|cytochrome p-450 cyp2d6 inhibitors|cytochrome p450 3a4 inhibitors|anti-arrhythmia agents|potassium channel blockers|cytochrome p450 2d6 inhibitors|metabolic side effects of drugs and substances|cytochrome p450 2c9 inhibitors
+221555,Cisatracurium,cisatracurium,nicotinic antagonist|muscle relaxant|peripheral nervous system agents|nondepolarizing neuromuscular blocker|neuromuscular nondepolarizing blockade|neuromuscular agents|neuromuscular blocking agents
+30114,Cisatracurium,cisatracurium,nicotinic antagonist|muscle relaxant|peripheral nervous system agents|nondepolarizing neuromuscular blocker|neuromuscular nondepolarizing blockade|neuromuscular agents|neuromuscular blocking agents
+1028,Cisatracurium,cisatracurium,nicotinic antagonist|muscle relaxant|peripheral nervous system agents|nondepolarizing neuromuscular blocker|neuromuscular nondepolarizing blockade|neuromuscular agents|neuromuscular blocking agents
+225151,Eptifibatide (Integrilin),eptifibatide,platelet aggregation inhibitor|hematologic agents|platelet aggregation inhibitors|decreased platelet aggregation|anticoagulant
+227694,Omeprazole (Prilosec),omeprazole,cytochrome p450 2c19 inhibitors|anticonvulsant|anti-ulcer agents|gastrointestinal agents|anti-ulcer drug|proton pump inhibitor|proton pump inhibitors|enzyme inhibitors
+221662,Dopamine,dopamine,cardiotonic agents|catecholamine|cardiotonic drug|neurotransmitter agents|catecholamines|cardiovascular agents|peripheral nervous system agents|autonomic agents|beta-adrenergic agonist|dopamine agents|sympathomimetic agent|sympathomimetics|protective agents|dopaminergic agent
+30043,Dopamine,dopamine,cardiotonic agents|catecholamine|cardiotonic drug|neurotransmitter agents|catecholamines|cardiovascular agents|peripheral nervous system agents|autonomic agents|beta-adrenergic agonist|dopamine agents|sympathomimetic agent|sympathomimetics|protective agents|dopaminergic agent
+5329,Dopamine,dopamine,cardiotonic agents|catecholamine|cardiotonic drug|neurotransmitter agents|catecholamines|cardiovascular agents|peripheral nervous system agents|autonomic agents|beta-adrenergic agonist|dopamine agents|sympathomimetic agent|sympathomimetics|protective agents|dopaminergic agent
+225868,Ethambutol,ethambutol,antimycobacterial|antitubercular agents|anti-bacterial agents|antitubercular agent|anti-infective agents
+225147,Argatroban,argatroban,serine proteinase inhibitors|anticoagulants|platelet aggregation inhibitors|enzyme inhibitors|protease inhibitors|direct thrombin inhibitor|anti-coagulant|hematologic agents|thrombin inhibitors|antithrombins
+30173,Argatroban,argatroban,serine proteinase inhibitors|anticoagulants|platelet aggregation inhibitors|enzyme inhibitors|protease inhibitors|direct thrombin inhibitor|anti-coagulant|hematologic agents|thrombin inhibitors|antithrombins
+225863,Daptomycin,daptomycin,anti-bacterial agents|lipopeptide antibacterial|anti-infective agents|lipopeptides|antibacterial drug
+225974,Metoprolol,metoprolol,anti-arrhythmia agents|autonomic agents|neurotransmitter agents|beta-adrenergic blocker|antihypertensive agent|adrenergic beta-1 receptor antagonists|sympatholytics|cardiovascular agents|adrenergic agents|adrenergic beta-antagonists|antihypertensive agents|peripheral nervous system agents|beta-adrenergic antagonist|adrenergic antagonists
+225848,Caspofungin,caspofungin,antifungal agents|anti-infective agents|lipopeptides|echinocandin antifungal|antiinfective agent
+225975,Heparin Sodium (Prophylaxis),heparin,heparin|hematologic agents|fibrinolytic agents|fibrin modulating agents|anticoagulants|anticoagulant|unfractionated heparin|anti-coagulant|cardiovascular agents
+225152,Heparin Sodium,heparin,heparin|hematologic agents|fibrinolytic agents|fibrin modulating agents|anticoagulants|anticoagulant|unfractionated heparin|anti-coagulant|cardiovascular agents
+221289,Epinephrine,epinephrine,catecholamines|adrenergic beta-agonists|mydriatics|catecholamine|beta-adrenergic agonist|bronchodilator agents|anti-asthmatic agents|adrenergic agonists|neurotransmitter agents|autonomic agents|respiratory system agents|cardiovascular agents|sympathomimetics|peripheral nervous system agents|adrenergic agents|vasoconstrictor agents|alpha-adrenergic agonist|adrenergic alpha-agonists
+30044,Epinephrine,epinephrine,catecholamines|adrenergic beta-agonists|mydriatics|catecholamine|beta-adrenergic agonist|bronchodilator agents|anti-asthmatic agents|adrenergic agonists|neurotransmitter agents|autonomic agents|respiratory system agents|cardiovascular agents|sympathomimetics|peripheral nervous system agents|adrenergic agents|vasoconstrictor agents|alpha-adrenergic agonist|adrenergic alpha-agonists
+225888,Nafcillin,nafcillin,antibacterial drug|penicillin-class antibacterial|anti-bacterial agents|anti-infective agents|penicillins
+225855,Ceftriaxone,ceftriaxone,anti-bacterial agents|antibacterial drug|drug allergen|anti-infective agents|cephalosporin antibacterial|cephalosporins
+225845,Azithromycin,azithromycin,anti-infective agents|anti-bacterial agents|macrolide antimicrobial|macrolides
+225881,Linezolid,linezolid,antibacterial drug|protein synthesis inhibitors|oxazolidinone antibacterial|anti-infective agents|anti-bacterial agents|enzyme inhibitors|oxazolidinones
+225859,Ciprofloxacin,ciprofloxacin,metabolic side effects of drugs and substances|quinolone antimicrobial|cytochrome p-450 cyp1a2 inhibitors|enzyme inhibitors|topoisomerase ii inhibitors|cytochrome p-450 enzyme inhibitors|anti-infective agents|antibacterial drug|anti-bacterial agents|antiinfective agent|quinolones|antineoplastic agents|topoisomerase inhibitors
+225865,Doxycycline,doxycycline,tetracyclines|anti-infective agents|antimalarial|anti-bacterial agents|antibacterial drug|antiparasitic agents|antiprotozoal agents|tetracycline-class drug|antimalarials
+222315,Vasopressin,vasopressin,natriuretic agents|hemostatics|coagulants|hematologic agents|antidiuretic agents|cardiovascular agents|vasoconstrictor agents
+30051,Vasopressin,vasopressin,natriuretic agents|hemostatics|coagulants|hematologic agents|antidiuretic agents|cardiovascular agents|vasoconstrictor agents
+2445,Vasopressin,vasopressin,natriuretic agents|hemostatics|coagulants|hematologic agents|antidiuretic agents|cardiovascular agents|vasoconstrictor agents
+222051,Nitroprusside,nitroprusside,antihypertensive agents|vasodilator agents|vasodilator|vasodilation|nitric oxide donors|cardiovascular agents|indicators and reagents
+30050,Nitroprusside,nitroprusside,antihypertensive agents|vasodilator agents|vasodilator|vasodilation|nitric oxide donors|cardiovascular agents|indicators and reagents
+222037,Nesiritide,nesiritide,natriuretic peptide|natriuretic peptides
+41611,Nesiritide,nesiritide,natriuretic peptide|natriuretic peptides
+222151,Procainamide,procainamide,anti-arrhythmia drug|anti-arrhythmia agents|membrane transport modulators|antiarrhythmic|sodium channel blockers|voltage-gated sodium channel blockers|platelet aggregation inhibitor|cardiovascular agents
+30052,Procainamide,procainamide,anti-arrhythmia drug|anti-arrhythmia agents|membrane transport modulators|antiarrhythmic|sodium channel blockers|voltage-gated sodium channel blockers|platelet aggregation inhibitor|cardiovascular agents
+225153,Labetalol,labetalol,adrenergic alpha-1 receptor antagonists|adrenergic antagonists|antihypertensive agents|adrenergic agents|adrenergic alpha-antagonists|autonomic agents|sympatholytic agent|peripheral nervous system agents|beta-adrenergic antagonist|antihypertensive agent|beta-adrenergic blocker|cardiovascular agents|sympathomimetics|adrenergic beta-antagonists|neurotransmitter agents|alpha-adrenergic antagonist
+222062,Vecuronium,vecuronium,muscle relaxant|nicotinic antagonist|nicotinic antagonists|neuromuscular blocking agents|cholinergic agents|peripheral nervous system agents|neurotransmitter agents|neuromuscular agent|neuromuscular nondepolarizing agents|neuromuscular nondepolarizing blockade|nondepolarizing neuromuscular blocker|neuromuscular agents|cholinergic antagonists
+30138,Vecuronium,vecuronium,muscle relaxant|nicotinic antagonist|nicotinic antagonists|neuromuscular blocking agents|cholinergic agents|peripheral nervous system agents|neurotransmitter agents|neuromuscular agent|neuromuscular nondepolarizing agents|neuromuscular nondepolarizing blockade|nondepolarizing neuromuscular blocker|neuromuscular agents|cholinergic antagonists
+225148,Bivalirudin (Angiomax),bivalirudin,hematologic agents|antithrombins|serine proteinase inhibitors|enzyme inhibitors|anticoagulants|anti-coagulant|thrombin inhibitors|anticoagulant|direct thrombin inhibitor|protease inhibitors
+225847,Aztreonam,aztreonam,monobactams|anti-infective agents|monobactam antibacterial|anti-bacterial agents|drug allergen|antibacterial drug
+221653,Dobutamine,dobutamine,neurotransmitter agents|cardiotonic agents|adrenergic agents|sympathomimetic agent|beta-adrenergic agonist|adrenergic agonists|autonomic agents|cardiotonic drug|sympathomimetics|adrenergic beta-1 receptor agonists|adrenergic beta-agonists|protective agents|cardiovascular agents|peripheral nervous system agents
+30042,Dobutamine,dobutamine,neurotransmitter agents|cardiotonic agents|adrenergic agents|sympathomimetic agent|beta-adrenergic agonist|adrenergic agonists|autonomic agents|cardiotonic drug|sympathomimetics|adrenergic beta-1 receptor agonists|adrenergic beta-agonists|protective agents|cardiovascular agents|peripheral nervous system agents
+225798,Vancomycin,vancomycin,anti-infective agents|glycopeptides|anti-bacterial agents|glycopeptide antibacterial
+3679,Vancomycin,vancomycin,anti-infective agents|glycopeptides|anti-bacterial agents|glycopeptide antibacterial
+225905,Voriconazole,voriconazole,"metabolic side effects of drugs and substances|cytochrome p-450 enzyme inhibitors|hormones, hormone substitutes, and hormone antagonists|enzyme inhibitors|hormone antagonists|antifungal agents|azole antifungal|14-alpha demethylase inhibitors|cytochrome p450 2c19 inhibitors|cytochrome p450 3a4 inhibitors|azoles|anti-infective agents|cytochrome p450 2c9 inhibitors|cytochrome p-450 cyp3a inhibitors|steroid synthesis inhibitors"
+221892,Lepirudin,lepirudin,enzyme inhibitors|serine proteinase inhibitors|direct thrombin inhibitor|anticoagulants|anti-coagulant|antithrombins|fibrinolytic agents|fibrin modulating agents|protease inhibitors|thrombin inhibitors|cardiovascular agents|hematologic agents
+30177,Lepirudin,lepirudin,enzyme inhibitors|serine proteinase inhibitors|direct thrombin inhibitor|anticoagulants|anti-coagulant|antithrombins|fibrinolytic agents|fibrin modulating agents|protease inhibitors|thrombin inhibitors|cardiovascular agents|hematologic agents
+1619,Lepirudin,lepirudin,enzyme inhibitors|serine proteinase inhibitors|direct thrombin inhibitor|anticoagulants|anti-coagulant|antithrombins|fibrinolytic agents|fibrin modulating agents|protease inhibitors|thrombin inhibitors|cardiovascular agents|hematologic agents
+225910,Pantoprazole (Protonix),pantoprazole,anti-ulcer agents|anti-ulcer drug|enzyme inhibitors|proton pump inhibitor|proton pump inhibitors|gastrointestinal agents
+225885,Micafungin,micafungin,anti-infective agents|echinocandin antifungal|antifungal agents|lipopeptides|antiinfective agent
+227690,Fosphenytoin,fosphenytoin,anticonvulsants|decreased central nervous system disorganized electrical activity|anti-epileptic agent|central nervous system agents
+4291,Fosphenytoin,fosphenytoin,anticonvulsants|decreased central nervous system disorganized electrical activity|anti-epileptic agent|central nervous system agents
+225833,Thiamine,thiamine,micronutrients|vitamin b complex|growth substances|vitamins
+30031,Thiamine,thiamine,micronutrients|vitamin b complex|growth substances|vitamins
+225892,Piperacillin,piperacillin,antibacterial drug|anti-bacterial agents|anti-infective agents
+225909,Lansoprazole (Prevacid),lansoprazole,proton pump inhibitors|proton pump inhibitor|anti-ulcer agents|enzyme inhibitors|gastrointestinal agents|anti-ulcer drug|inhibition gastric acid secretion
+227531,Mannitol,mannitol,"diuretics, osmotic|osmotic diuretic|increased diuresis|flavoring agents|natriuretic agents|sweetening agents|osmotic activity|food additives|diuretics"
+41632,Mannitol,mannitol,"diuretics, osmotic|osmotic diuretic|increased diuresis|flavoring agents|natriuretic agents|sweetening agents|osmotic activity|food additives|diuretics"
+221393,Atropine,atropine,"peripheral nervous system agents|parasympatholytic|central nervous system agents|mydriatic agent|bronchodilator agents|anaesthesia adjuvant|muscarinic antagonists|antidote to sarin poisoning|anti-asthmatic agents|cholinergic muscarinic antagonists|cholinergic agents|cholinergic antagonists|anticholinergic|muscarinic antagonist|neurotransmitter agents|anti-arrhythmia agents|respiratory system agents|adjuvants, anesthesia|bronchodilator agent|anti-arrhythmia drug|parasympatholytics|cholinergic muscarinic antagonist|mydriatics|autonomic agents|cardiovascular agents"
+225860,Clindamycin,clindamycin,anti-bacterial agents|protein synthesis inhibitors|anti-infective agents|lincosamide antibacterial|lincosamides|enzyme inhibitors|decreased sebaceous gland activity
+3369,Clindamycin,clindamycin,anti-bacterial agents|protein synthesis inhibitors|anti-infective agents|lincosamide antibacterial|lincosamides|enzyme inhibitors|decreased sebaceous gland activity
+225862,Colistin,colistin,anti-infective agents|anti-bacterial agents
+221906,Norepinephrine,norepinephrine,adrenergic agonists|catecholamine|vasoconstrictor agents|neurotransmitter agents|sympathomimetics|catecholamines|adrenergic alpha-agonists|cardiovascular agents|peripheral nervous system agents|autonomic agents|adrenergic agents
+221833,Hydromorphone (Dilaudid),hydromorphone,"central nervous system depressants|analgesics|peripheral nervous system agents|central nervous system agents|narcotics|sensory system agents|mu-opioid receptor agonist|analgesics, opioid|opioid agonist|full opioid agonists|opioid analgesic"
+225895,Pyrazinamide,pyrazinamide,anti-infective agents|anti-bacterial agents|antimycobacterial|antitubercular agent|antitubercular agents|prodrug
+225157,Tirofiban (Aggrastat),tirofiban,platelet aggregation inhibitor|anticoagulant|platelet glycoprotein-iib/iiia receptor antagonist|fibrin modulating drug|cardiovascular agents|fibrin modulating agents|fibrinolytic agents|platelet aggregation inhibitors|hematologic agents|decreased platelet aggregation
+225850,Cefazolin,cefazolin,cephalosporin antibacterial|cephalosporins|antibacterial drug|anti-bacterial agents|anti-infective agents
+4426,Cefazolin,cefazolin,cephalosporin antibacterial|cephalosporins|antibacterial drug|anti-bacterial agents|anti-infective agents
+221824,Haloperidol (Haldol),haloperidol,central nervous system agents|antipsychotic agents|dopamine antagonists|antiemetics|typical antipsychotic|first generation antipsychotic|gastrointestinal agents|dopamine agents|neurotransmitter agents|serotonergic antagonist|antiemetic|central nervous system depressants|dopaminergic antagonist|tranquilizing agents|autonomic agents|antidyskinesia agent|psychotropic drugs|anti-dyskinesia agents|peripheral nervous system agents
+225150,Dexmedetomidine (Precedex),dexmedetomidine,"analgesics, non-narcotic|peripheral nervous system agents|alpha-adrenergic agonist|non-narcotic analgesic|adrenergic agents|general anesthesia|central nervous system depressants|adrenergic agonists|analgesics|analgesic|adrenergic alpha-2 receptor agonists|sensory system agents|central nervous system agents|sedative|central alpha-2 adrenergic agonist|adrenergic alpha2-agonists|neurotransmitter agents|adrenergic alpha-agonists|hypnotics and sedatives"
+222318,Verapamil,verapamil,antihypertensive agent|anti-arrhythmia drug|cytochrome p450 3a inhibitors|cardiovascular agents|membrane transport modulators|calcium channel blockers|vasodilator agent|anti-arrhythmia agents|vasodilator agents|calcium channel antagonists|calcium channel blocker|p-glycoprotein inhibitors|cytochrome p450 3a4 inhibitors
+41693,Verapamil,verapamil,antihypertensive agent|anti-arrhythmia drug|cytochrome p450 3a inhibitors|cardiovascular agents|membrane transport modulators|calcium channel blockers|vasodilator agent|anti-arrhythmia agents|vasodilator agents|calcium channel antagonists|calcium channel blocker|p-glycoprotein inhibitors|cytochrome p450 3a4 inhibitors
+1968,Verapamil,verapamil,antihypertensive agent|anti-arrhythmia drug|cytochrome p450 3a inhibitors|cardiovascular agents|membrane transport modulators|calcium channel blockers|vasodilator agent|anti-arrhythmia agents|vasodilator agents|calcium channel antagonists|calcium channel blocker|p-glycoprotein inhibitors|cytochrome p450 3a4 inhibitors
+225875,Gentamicin,gentamicin,aminoglycosides|aminoglycoside antibacterial
+3445,Gentamicin,gentamicin,aminoglycosides|aminoglycoside antibacterial
+225877,Isoniazid,isoniazid,drug allergen|antimetabolites|antimycobacterial|hypolipidemic agents|antitubercular agents|anti-infective agents|anti-bacterial agents|antitubercular agent|fatty acid synthesis inhibitors
+221282,Adenosine,adenosine,vasodilator agent|anti-arrhythmia drug|adenosine receptor agonists|sensory system agents|vasodilator agents|adenosine receptor agonist|cardiovascular agents|analgesic|anti-arrhythmia agents|analgesics|central nervous system agents|peripheral nervous system agents|purinergic agents|neurotransmitter agents|purinergic p1 receptor agonists|purinergic agonists
+4649,Adenosine,adenosine,vasodilator agent|anti-arrhythmia drug|adenosine receptor agonists|sensory system agents|vasodilator agents|adenosine receptor agonist|cardiovascular agents|analgesic|anti-arrhythmia agents|analgesics|central nervous system agents|peripheral nervous system agents|purinergic agents|neurotransmitter agents|purinergic p1 receptor agonists|purinergic agonists
+225942,Fentanyl (Concentrate),fentanyl,"central nervous system agents|anesthetics, intravenous|mu-opioid receptor agonist|narcotics|full opioid agonists|analgesics, opioid|opioid agonist|opioid analgesic|anesthetics|adjuvant|peripheral nervous system agents|anaesthetic|anesthetics, general|sensory system agents|analgesics|intravenous anaesthetic|anaesthesia adjuvant|adjuvants, anesthesia|central nervous system depressants"
+2095,Octreotide,octreotide,"antineoplastic agents, hormonal|gastrointestinal agents|somatostatin receptor agonists|hormone agonist|somatostatin analog|antineoplastic agents"
+221744,Fentanyl,fentanyl,"central nervous system agents|anesthetics, intravenous|mu-opioid receptor agonist|narcotics|full opioid agonists|analgesics, opioid|opioid agonist|opioid analgesic|anesthetics|adjuvant|peripheral nervous system agents|anaesthetic|anesthetics, general|sensory system agents|analgesics|intravenous anaesthetic|anaesthesia adjuvant|adjuvants, anesthesia|central nervous system depressants"
+30118,Fentanyl,fentanyl,"central nervous system agents|anesthetics, intravenous|mu-opioid receptor agonist|narcotics|full opioid agonists|analgesics, opioid|opioid agonist|opioid analgesic|anesthetics|adjuvant|peripheral nervous system agents|anaesthetic|anesthetics, general|sensory system agents|analgesics|intravenous anaesthetic|anaesthesia adjuvant|adjuvants, anesthesia|central nervous system depressants"
+3432,Fentanyl,fentanyl,"central nervous system agents|anesthetics, intravenous|mu-opioid receptor agonist|narcotics|full opioid agonists|analgesics, opioid|opioid agonist|opioid analgesic|anesthetics|adjuvant|peripheral nervous system agents|anaesthetic|anesthetics, general|sensory system agents|analgesics|intravenous anaesthetic|anaesthesia adjuvant|adjuvants, anesthesia|central nervous system depressants"
+225902,Tobramycin,tobramycin,anti-bacterial agents|aminoglycoside antibacterial|anti-infective agents|aminoglycosides
+5063,Tobramycin,tobramycin,anti-bacterial agents|aminoglycoside antibacterial|anti-infective agents|aminoglycosides
+221749,Phenylephrine,phenylephrine,respiratory system agents|neurotransmitter agents|cardiotonic drug|cardiotonic agents|sympathomimetic agent|adrenergic agonists|adrenergic alpha-agonists|mydriatics|vasoconstrictor agents|adrenergic alpha-1 receptor agonists|autonomic agents|nasal decongestants|adrenergic alpha1-agonists|cardiovascular agents|alpha-adrenergic agonist|adrenergic agents|alpha-1 adrenergic agonist|mydriatic agent|protective agent|sympathomimetics|nasal decongestant|protective agents|vasoconstrictor agent|peripheral nervous system agents
+225873,Gancyclovir,ganciclovir,cytomegalovirus nucleoside analog dna polymerase inhibitor|dna polymerase inhibitors|antiinfective agent|anti-infective agents|antiviral drug|nucleoside analog|nucleoside analog antiviral|antiviral agents
+225851,Cefepime,cefepime,cephalosporin antibacterial|antibacterial drug|anti-infective agents|cephalosporins|anti-bacterial agents
+221623,Diazepam (Valium),diazepam,"benzodiazepine|gaba modulators|neurotransmitter agents|sedative|anesthetics|anti-anxiety agents|autonomic agents|anxiolytic drug|psychotropic drugs|anesthetics, general|antiemetics|gastrointestinal agents|tranquilizing agents|muscle relaxants, central|neuromuscular agents|anticonvulsant|anesthetics, intravenous|peripheral nervous system agents|gaba agents|hypnotics and sedatives|adjuvants, anesthesia|central nervous system depressants|central nervous system agents|anticonvulsants|benzodiazepines"
+227533,Sodium Bicarbonate 8.4% (Amp),sodium bicarbonate,food anticaking agent|antacid
+220995,Sodium Bicarbonate 8.4%,sodium bicarbonate,food anticaking agent|antacid
+225896,Quinine,quinine,"antiparasitic agents|antimalarials|sensory system agents|neuromuscular agents|analgesics, non-narcotic|analgesics|antimalarial|central nervous system agents|anti-infective agents|antiprotozoal agents|non-narcotic analgesic|muscle relaxant|peripheral nervous system agents|muscle relaxants, central"
+225884,Metronidazole,metronidazole,antiparasitic agent|antitrichomonal drug|radiation-sensitizing agents|antibacterial drug|prodrug|anti-infective agents|antiparasitic agents|antiprotozoal agents|nitroimidazole antimicrobial|radiosensitizing agent|nitroimidazoles
+225903,Valgancyclovir,valganciclovir,prodrug|antiviral agents|antiviral drug|anti-infective agents|dna polymerase inhibitors|cytomegalovirus nucleoside analog dna polymerase inhibitor|nucleoside analog
+222021,Naloxone (Narcan),naloxone,narcotic antagonists|opioid antagonists|central nervous system agents|opioid antagonist|central nervous system depressant|antidote to opioid poisoning|peripheral nervous system agents|sensory system agents
+225869,Fluconazole,fluconazole,"steroid synthesis inhibitors|cytochrome p-450 enzyme inhibitors|azoles|metabolic side effects of drugs and substances|hormones, hormone substitutes, and hormone antagonists|antifungal agents|cytochrome p450 3a4 inhibitors|cytochrome p450 2c19 inhibitors|azole antifungal|enzyme inhibitors|cytochrome p450 2c9 inhibitors|anti-infective agents|cytochrome p-450 cyp2c9 inhibitors|14-alpha demethylase inhibitors|cytochrome p-450 cyp2c19 inhibitors|hormone antagonists"
+4905,Fluconazole,fluconazole,"steroid synthesis inhibitors|cytochrome p-450 enzyme inhibitors|azoles|metabolic side effects of drugs and substances|hormones, hormone substitutes, and hormone antagonists|antifungal agents|cytochrome p450 3a4 inhibitors|cytochrome p450 2c19 inhibitors|azole antifungal|enzyme inhibitors|cytochrome p450 2c9 inhibitors|anti-infective agents|cytochrome p-450 cyp2c9 inhibitors|14-alpha demethylase inhibitors|cytochrome p-450 cyp2c19 inhibitors|hormone antagonists"
+225907,Famotidine (Pepcid),famotidine,anti-ulcer drug|h2-receptor antagonist|histamine-2 receptor antagonist|histamine antagonists|neurotransmitter agents|histamine h2 antagonists|gastrointestinal agents|anti-ulcer agents|histamine agents|histamine h2 receptor antagonists
+221668,Midazolam (Versed),midazolam,"anesthetics|tranquilizing agents|central nervous system agents|benzodiazepines|neurotransmitter agents|psychotropic drugs|anesthetics, general|anti-anxiety agents|benzodiazepine|gaba agents|adjuvants, anesthesia|gaba modulators|anesthetics, intravenous|central nervous system depressants|hypnotics and sedatives"
+228340,Furosemide (Lasix) 500/100,furosemide,natriuretic agents|membrane transport modulators|diuretics|increased diuresis at loop of henle|sodium potassium chloride symporter inhibitors|loop diuretic
+221794,Furosemide (Lasix),furosemide,natriuretic agents|membrane transport modulators|diuretics|increased diuresis at loop of henle|sodium potassium chloride symporter inhibitors|loop diuretic
+222168,Propofol,propofol,"hypnotics and sedatives|anesthetics|general anesthetic|general anesthesia|anticonvulsant|antiemetic|anesthetics, intravenous|central nervous system depressants|intravenous anaesthetic|sedative|central nervous system agents|anesthetics, general"
+30131,Propofol,propofol,"hypnotics and sedatives|anesthetics|general anesthetic|general anesthesia|anticonvulsant|antiemetic|anesthetics, intravenous|central nervous system depressants|intravenous anaesthetic|sedative|central nervous system agents|anesthetics, general"
+221261,Abciximab (Reopro),abciximab,hematologic agents|platelet aggregation inhibitors|anticoagulants
+223260,Insulin - Glargine,insulin glargine,hypoglycemic agents|insulin analog|insulin
+225155,Octreotide,octreotide,"antineoplastic agents, hormonal|gastrointestinal agents|somatostatin receptor agonists|hormone agonist|somatostatin analog|antineoplastic agents"
+44223,Octreotide,octreotide,"antineoplastic agents, hormonal|gastrointestinal agents|somatostatin receptor agonists|hormone agonist|somatostatin analog|antineoplastic agents"
+222042,Nicardipine,nicardipine,cytochrome p450 2c8 inhibitors|cytochrome p450 2d6 inhibitors|cytochrome p450 2c19 inhibitors|cytochrome p450 3a4 inhibitors|membrane transport modulators|antihypertensive agents|vasodilator agents|calcium channel antagonists|calcium channel blockers|cardiovascular agents|dihydropyridine calcium channel blocker|dihydropyridines
+30178,Nicardipine,nicardipine,cytochrome p450 2c8 inhibitors|cytochrome p450 2d6 inhibitors|cytochrome p450 2c19 inhibitors|cytochrome p450 3a4 inhibitors|membrane transport modulators|antihypertensive agents|vasodilator agents|calcium channel antagonists|calcium channel blockers|cardiovascular agents|dihydropyridine calcium channel blocker|dihydropyridines
+2052,Nicardipine,nicardipine,cytochrome p450 2c8 inhibitors|cytochrome p450 2d6 inhibitors|cytochrome p450 2c19 inhibitors|cytochrome p450 3a4 inhibitors|membrane transport modulators|antihypertensive agents|vasodilator agents|calcium channel antagonists|calcium channel blockers|cardiovascular agents|dihydropyridine calcium channel blocker|dihydropyridines
+225879,Levofloxacin,levofloxacin,"anti-infective agents|topoisomerase ii inhibitors|quinolones|cytochrome p-450 enzyme inhibitors|antibacterial drug|anti-bacterial agents|quinolone antimicrobial|anti-infective agents, urinary|cytochrome p-450 cyp1a2 inhibitors|renal agents|enzyme inhibitors|topoisomerase inhibitors|antineoplastic agents|metabolic side effects of drugs and substances"
+221468,Diltiazem,diltiazem,calcium channel blocker|antihypertensive agents|membrane transport modulators|antihypertensive agent|vasodilator agent|calcium channel antagonists|cardiovascular agents|vasodilator agents|calcium channel blockers
+30115,Diltiazem,diltiazem,calcium channel blocker|antihypertensive agents|membrane transport modulators|antihypertensive agent|vasodilator agent|calcium channel antagonists|cardiovascular agents|vasodilator agents|calcium channel blockers
+225853,Ceftazidime,ceftazidime,anti-infective agents|antibacterial drug|drug allergen|anti-bacterial agents
+4415,Ceftazidime,ceftazidime,anti-infective agents|antibacterial drug|drug allergen|anti-bacterial agents
+221986,Milrinone,milrinone,protective agents|cardiotonic drug|phosphodiesterase 3 inhibitor|enzyme inhibitors|platelet aggregation inhibitor|vasodilator agents|cardiotonic agents|platelet aggregation inhibitors|cardiovascular agents|phosphodiesterase inhibitors|vasodilator agent|hematologic agents|phosphodiesterase 3 inhibitors
+30125,Milrinone,milrinone,protective agents|cardiotonic drug|phosphodiesterase 3 inhibitor|enzyme inhibitors|platelet aggregation inhibitor|vasodilator agents|cardiotonic agents|platelet aggregation inhibitors|cardiovascular agents|phosphodiesterase inhibitors|vasodilator agent|hematologic agents|phosphodiesterase 3 inhibitors
+225945,Lidocaine,lidocaine,"antiarrhythmic|central nervous system depressants|drug allergen|voltage-gated sodium channel blockers|anesthetics, local|amide local anesthetic|sensory system agents|anti-arrhythmia drug|local anaesthetic|peripheral nervous system agents|membrane transport modulators|anesthetics|anti-arrhythmia agents|sodium channel blockers|central nervous system agents|local anesthesia|amides|cardiovascular agents"
+30048,Lidocaine,lidocaine,"antiarrhythmic|central nervous system depressants|drug allergen|voltage-gated sodium channel blockers|anesthetics, local|amide local anesthetic|sensory system agents|anti-arrhythmia drug|local anaesthetic|peripheral nervous system agents|membrane transport modulators|anesthetics|anti-arrhythmia agents|sodium channel blockers|central nervous system agents|local anesthesia|amides|cardiovascular agents"
+819,Lidocaine,lidocaine,"antiarrhythmic|central nervous system depressants|drug allergen|voltage-gated sodium channel blockers|anesthetics, local|amide local anesthetic|sensory system agents|anti-arrhythmia drug|local anaesthetic|peripheral nervous system agents|membrane transport modulators|anesthetics|anti-arrhythmia agents|sodium channel blockers|central nervous system agents|local anesthesia|amides|cardiovascular agents"
+221385,Lorazepam (Ativan),lorazepam,gastrointestinal agents|benzodiazepine|tranquilizing agents|central nervous system depressants|anti-anxiety agents|anticonvulsants|benzodiazepines|central nervous system agents|antiemetics|autonomic agents|peripheral nervous system agents|psychotropic drugs|gaba agents|gaba modulators|hypnotics and sedatives|neurotransmitter agents
+225889,Oxacillin,oxacillin,penicillin-class antibacterial|antibacterial drug|anti-infective agents|anti-bacterial agents|penicillins
+3554,Oxacillin,oxacillin,penicillin-class antibacterial|antibacterial drug|anti-infective agents|anti-bacterial agents|penicillins
+225911,Ranitidine (Prophylaxis),ranitidine,histamine antagonists|histamine h2 antagonists|histamine-2 receptor antagonist|gastrointestinal agents|histamine agents|neurotransmitter agents|h2-receptor antagonist|histamine h2 receptor antagonists|drug allergen|anti-ulcer drug|anti-ulcer agents
+222190,Ranitidine,ranitidine,histamine antagonists|histamine h2 antagonists|histamine-2 receptor antagonist|gastrointestinal agents|histamine agents|neurotransmitter agents|h2-receptor antagonist|histamine h2 receptor antagonists|drug allergen|anti-ulcer drug|anti-ulcer agents
+4272,Ranitidine,ranitidine,histamine antagonists|histamine h2 antagonists|histamine-2 receptor antagonist|gastrointestinal agents|histamine agents|neurotransmitter agents|h2-receptor antagonist|histamine h2 receptor antagonists|drug allergen|anti-ulcer drug|anti-ulcer agents
+225844,Atovaquone,atovaquone,antimalarial|antimalarials|enzyme inhibitors|antiparasitic agents|antiprotozoal|antiprotozoal agents|anti-infective agents
+225842,Ampicillin,ampicillin,anti-infective agents|penicillins|anti-bacterial agents|antibacterial drug|penicillin-class antibacterial
+3303,Ampicillin,ampicillin,anti-infective agents|penicillins|anti-bacterial agents|antibacterial drug|penicillin-class antibacterial
+225871,Foscarnet,foscarnet,dna polymerase inhibitors|nucleic acid synthesis inhibitors|anti-retroviral agents|antiviral drug|chelating activity|antiviral agents|pyrophosphate analog dna polymerase inhibitor|enzyme inhibitors|reverse transcriptase inhibitors|pyrophosphate analog|anti-infective agents
+221712,Ketamine,ketamine,"excitatory amino acid antagonists|analgesics|anesthetics, dissociative|anesthetics, intravenous|anesthetics, general|anesthetics|general anesthesia|analgesic|excitatory amino acid agents|peripheral nervous system agents|central nervous system depressants|general anesthetic|central nervous system agents|neurotransmitter agents|intravenous anaesthetic|sensory system agents"
+30151,Ketamine,ketamine,"excitatory amino acid antagonists|analgesics|anesthetics, dissociative|anesthetics, intravenous|anesthetics, general|anesthetics|general anesthesia|analgesic|excitatory amino acid agents|peripheral nervous system agents|central nervous system depressants|general anesthetic|central nervous system agents|neurotransmitter agents|intravenous anaesthetic|sensory system agents"
+6537,Ketamine,ketamine,"excitatory amino acid antagonists|analgesics|anesthetics, dissociative|anesthetics, intravenous|anesthetics, general|anesthetics|general anesthesia|analgesic|excitatory amino acid agents|peripheral nervous system agents|central nervous system depressants|general anesthetic|central nervous system agents|neurotransmitter agents|intravenous anaesthetic|sensory system agents"
